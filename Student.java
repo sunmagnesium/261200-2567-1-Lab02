@@ -1,6 +1,6 @@
 public class Student { 2 usages
-    String fname: 1 usage 
-    String lname: 1 usage
+    String fname; 1 usage 
+    String lname; 1 usage
     long id;
     long enrolledCourse; 2 usages
 
